@@ -1,6 +1,7 @@
 # MySQLExamen
 
 Geef de namen van de Franstalige personen van wie de naam begint met een 'M'.
+#
 SELECT persoon_naam 
 FROM persoon
 WHERE persoontaal = 'F'
